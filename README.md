@@ -25,4 +25,4 @@ O0778Glitch()
 ```
 
 ### GitHub Activity :
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=O0778Gltch&hide_border=true&theme=redical)
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=O0778Glitch&hide_border=true&theme=redical)
